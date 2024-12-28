@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology.
 - 🌱 I’m currently pursuing my btech degree.
 - 💞️ I’m looking to collaborate on website designing projects.
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to play chess to enhance my focus and thinking capabilty.
 
 <!---
 Anubhav-Dubey/Anubhav-Dubey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
