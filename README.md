@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anubhav-Dubey.
 - 👀 I’m interested in technology.
 - 🌱 I’m currently pursuing my btech degree.
-- 💞️ I’m looking to collaborate on website designing projects.
+- 🤝 I’m looking to collaborate on website designing projects.
 - ⚡ Fun fact: I love to play chess to enhance my focus and thinking capabilty.
 
 <!---
